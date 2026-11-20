@@ -17,4 +17,4 @@ Latency benchmarks across write concern levels (w:0, w:1, w:majority, j:True), n
 - Required packages: `pip install pymongo`
 
 ## Author
-- GitHub: [mannuruprajwalreddy-netizen](https://github.com/mannuruprajwalreddy-netizen)
+- GitHub: [meghanakasireddyart-a11y](https://github.com/meghanakasireddyart-a11y)
